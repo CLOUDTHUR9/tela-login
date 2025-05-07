@@ -39,7 +39,7 @@ function LoginForm(): JSX.Element {
                 {/* Botão de login */}
                 <input 
                     type="button" // Tipo botão (não envia o formulário por padrão)
-                    value="Entrar" // Texto exibido no botão
+                    value="ENTRAR" // Texto exibido no botão
                     className={estilo['input-button-login']} // Classe CSS personalizada
                 />
             </form>
